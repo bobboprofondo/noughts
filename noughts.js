@@ -18,10 +18,10 @@ for (i = 0; i < 9; i++) {
 };
 
 //displayState(state);
-state[0] = 2;
-state[1] = 0;
-state[2] = 1;
-state[4] = 2;
+//state[0] = 1;
+//state[1] = 1;
+//state[2] = 1;
+//state[4] = 1;
 
 funks.displayState(state);
 //nextMove = funks.getUserInput();
